@@ -1,16 +1,27 @@
-# sim_com
+# Simulasi Request Response & Publish Subscribe
 
-A new Flutter project.
+Simulasi ini bertujuan untuk memperlihatkan cara kerja sistem Request Response & Publish Subscribe
 
-## Getting Started
+## <div align="center">Dokumentasi</div>
 
-This project is a starting point for a Flutter application.
+## Cara Running
+<br>
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+git clone https://github.com/MInsanKamil/Simulasi_RequestResponse_x_PublishSubscribe.git
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+cd Simulasi_RequestResponse_x_PublishSubscribe
+```
+
+```bash
+flutter run
+```
+![Alt text](images/ss.png)
+
+<br>
+Kemudian, pilih windows sebagai platform untuk running simulasi
+
+
