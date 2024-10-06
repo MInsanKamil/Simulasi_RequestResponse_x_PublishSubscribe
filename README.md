@@ -23,11 +23,11 @@ Kemudian, pilih windows sebagai platform untuk running simulasi
 
 ## Tampilan
 <br>
-### Tampilan Simulasi Request-Responese
+- Tampilan Simulasi Request-Responese
 ![Alt text](images/ss1.png)
-### Tampilan Simulasi Publish-Subscribe
+- Tampilan Simulasi Publish-Subscribe
 ![Alt text](images/ss2.png)
-### Tampilan Halaman Perbandingan
+- Tampilan Halaman Perbandingan
 ![Alt text](images/ss3.png)
 
 
