@@ -19,7 +19,7 @@ flutter run
 ```
 ![Alt text](images/ss.png)
 
-Kemudian, pilih windows sebagai platform untuk running simulasi
+Kemudian, pilih platform dekstop atau web untuk running simulasi
 
 ## Tampilan
 <br>
